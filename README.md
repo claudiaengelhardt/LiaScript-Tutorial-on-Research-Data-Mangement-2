@@ -33,6 +33,16 @@ This is the second part of the Come2Data workshop
 
 #### Quizze
 
+Wie heißt das System, mit dem wir arbeiten? 
+
+[[Liascript]]
+
+Wo wird LiaScript am meisten genutzt? 
+
+[( )] Dresden
+[(x)] Freiberg
+[( )] München
+
 #### Umfragen
 
 ### Makros
